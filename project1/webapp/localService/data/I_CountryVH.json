@@ -1,0 +1,142 @@
+[
+    {
+        "Country": "tcY",
+        "Country_Text": "Country_Text1",
+        "Description": "Description1",
+        "CountryThreeLetterISOCode": "Co1",
+        "CountryThreeDigitISOCode": "Co1"
+    },
+    {
+        "Country": "CZa",
+        "Country_Text": "Country_Text2",
+        "Description": "Description2",
+        "CountryThreeLetterISOCode": "Co2",
+        "CountryThreeDigitISOCode": "Co2"
+    },
+    {
+        "Country": "SnW",
+        "Country_Text": "Country_Text3",
+        "Description": "Description3",
+        "CountryThreeLetterISOCode": "Co3",
+        "CountryThreeDigitISOCode": "Co3"
+    },
+    {
+        "Country": "aqk",
+        "Country_Text": "Country_Text4",
+        "Description": "Description4",
+        "CountryThreeLetterISOCode": "Co4",
+        "CountryThreeDigitISOCode": "Co4"
+    },
+    {
+        "Country": "gSO",
+        "Country_Text": "Country_Text5",
+        "Description": "Description5",
+        "CountryThreeLetterISOCode": "Co5",
+        "CountryThreeDigitISOCode": "Co5"
+    },
+    {
+        "Country": "qSQ",
+        "Country_Text": "Country_Text6",
+        "Description": "Description6",
+        "CountryThreeLetterISOCode": "Co6",
+        "CountryThreeDigitISOCode": "Co6"
+    },
+    {
+        "Country": "tmi",
+        "Country_Text": "Country_Text7",
+        "Description": "Description7",
+        "CountryThreeLetterISOCode": "Co7",
+        "CountryThreeDigitISOCode": "Co7"
+    },
+    {
+        "Country": "RDT",
+        "Country_Text": "Country_Text8",
+        "Description": "Description8",
+        "CountryThreeLetterISOCode": "Co8",
+        "CountryThreeDigitISOCode": "Co8"
+    },
+    {
+        "Country": "RSv",
+        "Country_Text": "Country_Text9",
+        "Description": "Description9",
+        "CountryThreeLetterISOCode": "Co9",
+        "CountryThreeDigitISOCode": "Co9"
+    },
+    {
+        "Country": "jqy",
+        "Country_Text": "Country_Text10",
+        "Description": "Description10",
+        "CountryThreeLetterISOCode": "C10",
+        "CountryThreeDigitISOCode": "C10"
+    },
+    {
+        "Country": "VCg",
+        "Country_Text": "Country_Text11",
+        "Description": "Description11",
+        "CountryThreeLetterISOCode": "C11",
+        "CountryThreeDigitISOCode": "C11"
+    },
+    {
+        "Country": "jQL",
+        "Country_Text": "Country_Text12",
+        "Description": "Description12",
+        "CountryThreeLetterISOCode": "C12",
+        "CountryThreeDigitISOCode": "C12"
+    },
+    {
+        "Country": "QDw",
+        "Country_Text": "Country_Text13",
+        "Description": "Description13",
+        "CountryThreeLetterISOCode": "C13",
+        "CountryThreeDigitISOCode": "C13"
+    },
+    {
+        "Country": "QlT",
+        "Country_Text": "Country_Text14",
+        "Description": "Description14",
+        "CountryThreeLetterISOCode": "C14",
+        "CountryThreeDigitISOCode": "C14"
+    },
+    {
+        "Country": "rYS",
+        "Country_Text": "Country_Text15",
+        "Description": "Description15",
+        "CountryThreeLetterISOCode": "C15",
+        "CountryThreeDigitISOCode": "C15"
+    },
+    {
+        "Country": "AQu",
+        "Country_Text": "Country_Text16",
+        "Description": "Description16",
+        "CountryThreeLetterISOCode": "C16",
+        "CountryThreeDigitISOCode": "C16"
+    },
+    {
+        "Country": "TcL",
+        "Country_Text": "Country_Text17",
+        "Description": "Description17",
+        "CountryThreeLetterISOCode": "C17",
+        "CountryThreeDigitISOCode": "C17"
+    },
+    {
+        "Country": "mms",
+        "Country_Text": "Country_Text18",
+        "Description": "Description18",
+        "CountryThreeLetterISOCode": "C18",
+        "CountryThreeDigitISOCode": "C18"
+    },
+    {
+        "Country": "fDF",
+        "Country_Text": "Country_Text19",
+        "Description": "Description19",
+        "CountryThreeLetterISOCode": "C19",
+        "CountryThreeDigitISOCode": "C19"
+    },
+    {
+        "Country": "LhT",
+        "Country_Text": "Country_Text20",
+        "Description": "Description20",
+        "CountryThreeLetterISOCode": "C20",
+        "CountryThreeDigitISOCode": "C20"
+    }
+]

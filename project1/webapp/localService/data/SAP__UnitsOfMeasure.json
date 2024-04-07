@@ -1,0 +1,142 @@
+[
+    {
+        "UnitCode": "wat",
+        "ISOCode": "IS1",
+        "ExternalCode": "Ex1",
+        "Text": "Text1",
+        "DecimalPlaces": 16693
+    },
+    {
+        "UnitCode": "cYn",
+        "ISOCode": "IS2",
+        "ExternalCode": "Ex2",
+        "Text": "Text2",
+        "DecimalPlaces": 28627
+    },
+    {
+        "UnitCode": "Hqz",
+        "ISOCode": "IS3",
+        "ExternalCode": "Ex3",
+        "Text": "Text3",
+        "DecimalPlaces": 3036
+    },
+    {
+        "UnitCode": "LgB",
+        "ISOCode": "IS4",
+        "ExternalCode": "Ex4",
+        "Text": "Text4",
+        "DecimalPlaces": 23656
+    },
+    {
+        "UnitCode": "POr",
+        "ISOCode": "IS5",
+        "ExternalCode": "Ex5",
+        "Text": "Text5",
+        "DecimalPlaces": 2301
+    },
+    {
+        "UnitCode": "Gjc",
+        "ISOCode": "IS6",
+        "ExternalCode": "Ex6",
+        "Text": "Text6",
+        "DecimalPlaces": 13383
+    },
+    {
+        "UnitCode": "vlU",
+        "ISOCode": "IS7",
+        "ExternalCode": "Ex7",
+        "Text": "Text7",
+        "DecimalPlaces": 23605
+    },
+    {
+        "UnitCode": "Auf",
+        "ISOCode": "IS8",
+        "ExternalCode": "Ex8",
+        "Text": "Text8",
+        "DecimalPlaces": 13805
+    },
+    {
+        "UnitCode": "rXj",
+        "ISOCode": "IS9",
+        "ExternalCode": "Ex9",
+        "Text": "Text9",
+        "DecimalPlaces": 19272
+    },
+    {
+        "UnitCode": "aSJ",
+        "ISOCode": "I10",
+        "ExternalCode": "E10",
+        "Text": "Text10",
+        "DecimalPlaces": 12725
+    },
+    {
+        "UnitCode": "OVx",
+        "ISOCode": "I11",
+        "ExternalCode": "E11",
+        "Text": "Text11",
+        "DecimalPlaces": 488
+    },
+    {
+        "UnitCode": "Bsq",
+        "ISOCode": "I12",
+        "ExternalCode": "E12",
+        "Text": "Text12",
+        "DecimalPlaces": 32433
+    },
+    {
+        "UnitCode": "QGv",
+        "ISOCode": "I13",
+        "ExternalCode": "E13",
+        "Text": "Text13",
+        "DecimalPlaces": 30749
+    },
+    {
+        "UnitCode": "ztc",
+        "ISOCode": "I14",
+        "ExternalCode": "E14",
+        "Text": "Text14",
+        "DecimalPlaces": 5964
+    },
+    {
+        "UnitCode": "Ftf",
+        "ISOCode": "I15",
+        "ExternalCode": "E15",
+        "Text": "Text15",
+        "DecimalPlaces": 17328
+    },
+    {
+        "UnitCode": "qCx",
+        "ISOCode": "I16",
+        "ExternalCode": "E16",
+        "Text": "Text16",
+        "DecimalPlaces": 28114
+    },
+    {
+        "UnitCode": "UtT",
+        "ISOCode": "I17",
+        "ExternalCode": "E17",
+        "Text": "Text17",
+        "DecimalPlaces": 23950
+    },
+    {
+        "UnitCode": "AOL",
+        "ISOCode": "I18",
+        "ExternalCode": "E18",
+        "Text": "Text18",
+        "DecimalPlaces": 1177
+    },
+    {
+        "UnitCode": "RTU",
+        "ISOCode": "I19",
+        "ExternalCode": "E19",
+        "Text": "Text19",
+        "DecimalPlaces": 18169
+    },
+    {
+        "UnitCode": "EZP",
+        "ISOCode": "I20",
+        "ExternalCode": "E20",
+        "Text": "Text20",
+        "DecimalPlaces": 29995
+    }
+]
